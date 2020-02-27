@@ -1,0 +1,118 @@
+		********ERROR LOG FILE FOR 1*********
+
+Reading 1 error has occured in Sensor 1 at the time 20/09/13 13:07
+Reading 1 error has occured in Sensor 8 at the time 20/09/13 13:43
+Reading 1 error has occured in Sensor 9 at the time 20/09/13 13:45
+Reading 1 error has occured in Sensor 10 at the time 20/09/13 13:49
+Reading 1 error has occured in Sensor 11 at the time 20/09/13 13:57
+
+'There are 5 sensors that contain error in Reading 1'
+
+Reading 2 error has occured in Sensor 2 at the time 20/09/13 13:09
+
+'There is only 1 sensor that contain error in Reading 2'
+
+Reading 3 error has occured in Sensor 3 at the time 20/09/13 13:16
+
+'There is only 1 sensor that contain error in Reading 3'
+
+Reading 4 error has occured in Sensor 4 at the time 20/09/13 13:20
+Reading 4 error has occured in Sensor 5 at the time 20/09/13 13:25
+Reading 4 error has occured in Sensor 6 at the time 20/09/13 13:28
+
+'There are 3 sensors that contain error in Reading 4'
+
+Reading 6 error has occured in Sensor 11 at the time 20/09/13 13:57
+Reading 6 error has occured in Sensor 12 at the time 20/09/13 13:58
+Reading 6 error has occured in Sensor 13 at the time 20/09/13 14:05
+Reading 6 error has occured in Sensor 14 at the time 20/09/13 14:05
+Reading 6 error has occured in Sensor 15 at the time 20/09/13 14:07
+Reading 6 error has occured in Sensor 16 at the time 20/09/13 14:16
+Reading 6 error has occured in Sensor 17 at the time 20/09/13 14:23
+
+'There are 7 sensors that contain error in Reading 6'
+
+Reading 9 error has occured in Sensor 7 at the time 20/09/13 13:37
+Reading 9 error has occured in Sensor 8 at the time 20/09/13 13:43
+Reading 9 error has occured in Sensor 9 at the time 20/09/13 13:45
+Reading 9 error has occured in Sensor 10 at the time 20/09/13 13:49
+Reading 9 error has occured in Sensor 11 at the time 20/09/13 13:57
+Reading 9 error has occured in Sensor 12 at the time 20/09/13 13:58
+Reading 9 error has occured in Sensor 13 at the time 20/09/13 14:05
+
+'There are 7 sensors that contain error in Reading 9'
+
+Reading 12 error has occured in Sensor 11 at the time 20/09/13 13:57
+Reading 12 error has occured in Sensor 12 at the time 20/09/13 13:58
+Reading 12 error has occured in Sensor 13 at the time 20/09/13 14:05
+
+'There are 3 sensors that contain error in Reading 12'
+
+Reading 16 error has occured in Sensor 4 at the time 20/09/13 13:20
+Reading 16 error has occured in Sensor 5 at the time 20/09/13 13:25
+Reading 16 error has occured in Sensor 6 at the time 20/09/13 13:28
+Reading 16 error has occured in Sensor 7 at the time 20/09/13 13:37
+Reading 16 error has occured in Sensor 8 at the time 20/09/13 13:43
+Reading 16 error has occured in Sensor 9 at the time 20/09/13 13:45
+
+'There are 6 sensors that contain error in Reading 16'
+
+		********ERROR LOG FILE FOR 1*********
+
+Reading 1 error has occured in Sensor 1 at the time 20/09/13 13:07
+Reading 1 error has occured in Sensor 8 at the time 20/09/13 13:43
+Reading 1 error has occured in Sensor 9 at the time 20/09/13 13:45
+Reading 1 error has occured in Sensor 10 at the time 20/09/13 13:49
+Reading 1 error has occured in Sensor 11 at the time 20/09/13 13:57
+
+'There are 5 sensors that contain error in Reading 1'
+
+Reading 2 error has occured in Sensor 2 at the time 20/09/13 13:09
+
+'There is only 1 sensor that contain error in Reading 2'
+
+Reading 3 error has occured in Sensor 3 at the time 20/09/13 13:16
+
+'There is only 1 sensor that contain error in Reading 3'
+
+Reading 4 error has occured in Sensor 4 at the time 20/09/13 13:20
+Reading 4 error has occured in Sensor 5 at the time 20/09/13 13:25
+Reading 4 error has occured in Sensor 6 at the time 20/09/13 13:28
+
+'There are 3 sensors that contain error in Reading 4'
+
+Reading 6 error has occured in Sensor 11 at the time 20/09/13 13:57
+Reading 6 error has occured in Sensor 12 at the time 20/09/13 13:58
+Reading 6 error has occured in Sensor 13 at the time 20/09/13 14:05
+Reading 6 error has occured in Sensor 14 at the time 20/09/13 14:05
+Reading 6 error has occured in Sensor 15 at the time 20/09/13 14:07
+Reading 6 error has occured in Sensor 16 at the time 20/09/13 14:16
+Reading 6 error has occured in Sensor 17 at the time 20/09/13 14:23
+
+'There are 7 sensors that contain error in Reading 6'
+
+Reading 9 error has occured in Sensor 7 at the time 20/09/13 13:37
+Reading 9 error has occured in Sensor 8 at the time 20/09/13 13:43
+Reading 9 error has occured in Sensor 9 at the time 20/09/13 13:45
+Reading 9 error has occured in Sensor 10 at the time 20/09/13 13:49
+Reading 9 error has occured in Sensor 11 at the time 20/09/13 13:57
+Reading 9 error has occured in Sensor 12 at the time 20/09/13 13:58
+Reading 9 error has occured in Sensor 13 at the time 20/09/13 14:05
+
+'There are 7 sensors that contain error in Reading 9'
+
+Reading 12 error has occured in Sensor 11 at the time 20/09/13 13:57
+Reading 12 error has occured in Sensor 12 at the time 20/09/13 13:58
+Reading 12 error has occured in Sensor 13 at the time 20/09/13 14:05
+
+'There are 3 sensors that contain error in Reading 12'
+
+Reading 16 error has occured in Sensor 4 at the time 20/09/13 13:20
+Reading 16 error has occured in Sensor 5 at the time 20/09/13 13:25
+Reading 16 error has occured in Sensor 6 at the time 20/09/13 13:28
+Reading 16 error has occured in Sensor 7 at the time 20/09/13 13:37
+Reading 16 error has occured in Sensor 8 at the time 20/09/13 13:43
+Reading 16 error has occured in Sensor 9 at the time 20/09/13 13:45
+
+'There are 6 sensors that contain error in Reading 16'
+
